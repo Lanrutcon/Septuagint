@@ -1,0 +1,7 @@
+## Interface: 40300
+## Title: Septuagint
+## Author: Lanrutcon
+## Notes: CastingSpell Notifier
+## Version: 1.0
+
+Septuagint.lua
