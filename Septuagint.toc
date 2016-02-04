@@ -2,6 +2,6 @@
 ## Title: Septuagint
 ## Author: Lanrutcon
 ## Notes: CastingSpell Notifier
-## Version: 1.0
+## Version: 1.1
 
 Septuagint.lua
